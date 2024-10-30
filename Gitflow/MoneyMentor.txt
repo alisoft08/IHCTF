@@ -1,0 +1,42 @@
+MoneyMentor/ 
+│
+├── menu.html
+├── acceso.html
+├── analisis.html
+├── calculadora.html
+├── calendario.html
+├── index.html 
+├── imagenes/ 
+│   ├── daf.jpg 
+├── img/ 
+│   ├── ahorro.png 
+│   ├── ayudamos.png 
+│   ├── bir.jpg 
+│   ├── Camila.avif 
+│   ├── daf.jpg 
+│   ├── final.png 
+│   ├── fondo_landing.jpg 
+│   ├── hacemos.png 
+│   ├── in.png
+│   ├── in.vsg
+│   ├── iniciamos.png
+│   ├── inicio.png 
+│   ├── money.png 
+│   ├── moneymentor.png 
+│   ├── planeacion.png 
+│   ├── seguimiento.png 
+│   ├── up.png 
+│   ├── up.svg 
+├── jss/ 
+│   ├── acceso.js 
+│   ├── analisis.js
+│   ├── calculadora.js 
+│   └── calendario.js
+│   └── menu.js 
+└── css/ 
+    └── acceso.css 
+    └── analisis.css  
+    └── calculadora.css  
+    └── calendario.css  
+    └── menu.css  
+    └── style.css    
